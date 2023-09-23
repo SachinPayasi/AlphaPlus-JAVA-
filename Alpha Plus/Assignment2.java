@@ -1,4 +1,4 @@
-   //ASSIGNMENT2 (Alpha Plus)
+   //ASSIGNMENT2 (Alpha Plus):- Variable and data types
 
 import java.util.*;
 public class Alpha {
