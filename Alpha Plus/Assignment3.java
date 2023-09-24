@@ -11,8 +11,7 @@ public class Assignment3 {
         int exp2 = (x * (y / x));
         System.out.print(exp1 + ",");
         System.out.print(exp2);
-      
-      //Output :- 5 , 4  
+//Output :- 5 , 4  
 
       //(2)
         int x = 200,y = 50, z = 100;
