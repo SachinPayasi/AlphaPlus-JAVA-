@@ -12,7 +12,7 @@ public class Assignment3 {
         System.out.print(exp1 + ",");
         System.out.print(exp2);
       
-        
+      //Output :- 5 , 4  
 
       //(2)
         int x = 200,y = 50, z = 100;
@@ -25,7 +25,7 @@ public class Assignment3 {
         if((y+200)<x && (y+150)<z){
             System.out.println("Hwllo Java");
         }
-
+//Output:- Java
 
 
         //(3)
@@ -35,8 +35,7 @@ public class Assignment3 {
         y -= z; 
         z /= (x+y);
         System.out.println(x + " " + " " + z);
-
-
+//Output:- 4  0
 
         //(4)
         int x = 9, y = 12;
@@ -44,7 +43,7 @@ public class Assignment3 {
         
         int exp = 4/3 * (x + 34) + 9 * (a + b * c) + (3 + y * (2 + a)) / (a + b*y);
         System.out.println(exp);
-
+//Output:- 278
 
 
         //(5)
@@ -55,6 +54,7 @@ public class Assignment3 {
 
         System.out.println(exp1);
         System.out.println(exp2);
-
+//Output:- 20
+           20
     }
 }
