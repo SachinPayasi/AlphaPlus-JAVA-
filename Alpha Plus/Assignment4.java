@@ -5,10 +5,10 @@ import java.util.*;
 
 //Question 1: Write a Java program to get a number from the user and print whether it is positive or negative.
 
-/public class Assignment4 {
-  public static void main(String args[]){
+ public class Assignment4 {
+    public static void main(String args[]){
        
-    \System.out.println("Enter A Number To Check Whether It Is Positive or Negative");
+    System.out.println("Enter A Number To Check Whether It Is Positive or Negative");
         Scanner sc = new Scanner(System.in);
         int A = sc.nextInt();
         
@@ -23,8 +23,8 @@ import java.util.*;
 /*Question 2:Finish the following code so that it prints You have a fever if your temperature is above 100 and otherwise
          prints You don't have a fever.
           
-         publicclassSolution{ 
-        {publicstaticvoidmain(String[]args) {
+         public class Solution{ 
+        public static void main(String[]args) {
             double temp = 103.5
            }
        }*/ 
