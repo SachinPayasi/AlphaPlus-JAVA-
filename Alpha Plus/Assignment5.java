@@ -6,14 +6,16 @@ public class Assignment5 {
     
     
 //Question 1 :How many times 'Hello' is printed?
-  public static void main(String[]args){
+    
+public static void main(String[]args){
     for(int i = 0;i < 5;i++) {
         System.out.println("Hello");
         i+=2;
     }
   }  
 
-/*Output :- Hello
+/*Output :-2 times-
+            Hello
             Hello */
 
            
@@ -44,7 +46,7 @@ public static void main(String args[]){
        System.out.println("Sum of even numbers: "+evenSum);
        System.out.println("Sum of odd numbers: "+oddSum);
 
-
+}
 
 //Question 3 :Write a program to find the factorial of any number entered by the user.
         
@@ -66,6 +68,7 @@ public static void main(String args[]){
 
 
 //Question4:Write a program to print the multiplication table of a number N, entered by the user.
+    
 public static void main(String args[]){ 
     Scanner sc = new Scanner(System.in);
     System.out.println("Enter your Number");
