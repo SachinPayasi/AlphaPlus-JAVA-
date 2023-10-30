@@ -91,6 +91,8 @@ public class Assignment7{
 
 } 
 
+
+
 //Question 4:Write a Java method to compute the sum of the digits in an integer
 import java.util.*;                                                       
 
